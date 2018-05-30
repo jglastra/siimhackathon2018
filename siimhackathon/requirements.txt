@@ -3,3 +3,4 @@ fhirclient==3.2.0
 httpie==0.9.9
 requests==2.18.4
 pydicom==1.0.2
+dicomweb-client==0.3.0
